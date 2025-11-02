@@ -15,6 +15,18 @@ This page demonstrates my hands-on projects and technical experience in network 
 
 My journey in Network& Computer Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| IDS/IPS            | <a href="https://google.com">Detection Lab</a>|
+| Network Scan Investigation | <a href="https://google.com">Detection Lab</a>|
+| Phishing Email                                | SOC Automation Lab|
+| SSH Brute Force Detection & Alert Engineering     | SOC Automation Lab|
+
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
