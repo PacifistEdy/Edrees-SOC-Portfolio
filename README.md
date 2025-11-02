@@ -21,7 +21,7 @@ My journey in Network& Computer Engineering has led me to develop a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IDS/IPS            | <a href="https://github.com/PacifistEdy/Configure-an-IDS-IPS">IDS/IPS Lab</a>|
-| Network Scan Investigation | <a href="https://google.com">Detection Lab</a>|
+| Network Scan Investigation | <a href="https://github.com/PacifistEdy/Network-Scan-Investigation"> Network Scan Investigation Lab</a>|
 | Phishing Email                                | <a href="https://github.com/PacifistEdy/Phishing-Email">Phishing Email Lab</a>|
 | SSH Brute Force Detection & Alert Engineering     |<a href="https://github.com/PacifistEdy/SSH-Brute-Force-Attack">SSH Brute Force Lab</a>|
 
