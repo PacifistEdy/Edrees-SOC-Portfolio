@@ -45,4 +45,5 @@ My journey in Network& Computer Engineering has led me to develop a passion for 
   
   ## 📫 Contact
   <a href="www.linkedin.com/in/edhowsawi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
    Email:EdHowsawi@hotmail.com
